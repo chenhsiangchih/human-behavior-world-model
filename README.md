@@ -8,7 +8,8 @@ Build a world model that predicts human behavior in autonomous driving scenarios
 
 Current autonomous systems often react after pedestrians become visible.
 
-Can we predict pedestrian intentions earlier?
+Can we predict whether an occluded pedestrian
+will enter the roadway within the next 2 seconds?
 
 ## Long-Term Goal
 
